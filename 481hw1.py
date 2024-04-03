@@ -3,7 +3,7 @@ def github() -> str:
     This function takes no arguments and returns a link to the solutions on GitHub.
     """
 
-    return "https://https://github.com/qiguangyan/481hw/blob/main/481hw1.py"
+    return "https://github.com/qiguangyan/481hw/blob/main/481hw1.py"
 
 def evens_and_odds(n: int) -> dict:
     """
